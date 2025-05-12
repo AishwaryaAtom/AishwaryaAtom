@@ -1,23 +1,18 @@
 <h1 align="center">Hi 👋, I'm Aishwarya</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer </h3>
 
-- 🔭 I’m currently working on **Guvi Fsd**
+- 🔭 I’m currently working in **Uitoux Solutions**
 
-- 🌱 I’m currently learning **MERN STACK**
+- 🌱 I’m a MERN stack developer
 
 - 👯 I’m looking to collaborate on **MERN stack application**
 
-- 🤝 I’m looking for help with **Html Css Nodejs React Js**
-
-- 👨‍💻 All of my projects are available at [Coming soon](Coming soon)
-
-- 📝 I regularly write articles on [Coming soon](Coming soon)
 
 - 💬 Ask me about **Reactjs**
 
 - 📫 How to reach me **atom.aishwarya@gmail.com**
 
-- 📄 Know about my experiences [I have 2 years experience in frontend development](I have 2 years experience in frontend development)
+- 📄 Know about my experiences [I have 4 years experience in frontend development](I have 4 years experience in frontend development)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
